@@ -16,7 +16,7 @@ The project includes data preprocessing, model training, model evaluation, a Fla
 
 ## 🚀 Project Demo
 
-**Live Demo:** *https://placement-prediction-shubham.onrender.com*
+**Live Demo:** *https://student-placement-predictionshubham.onrender.com*
 
 
 ## 📌 Features
